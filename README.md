@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I am Georgi Nedyalkov, an aspiring web developer 🙋‍♂️
+
 
 <!--
 **GeorgiNedyalkov/GeorgiNedyalkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
