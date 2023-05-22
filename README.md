@@ -12,6 +12,8 @@
    </li>
    </ul>
    
+   ![image](https://github.com/GeorgiNedyalkov/GeorgiNedyalkov/assets/51360924/8f5c8ea3-5965-48d8-8e10-a19d08595179)
+
 
    
 <!--
