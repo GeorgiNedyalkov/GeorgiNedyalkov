@@ -2,15 +2,13 @@
 
 <ul>
    <li>
-      🎓 I am currently pursuing a **Bachelor's in Computer Science Engineering** from Software University
+      🎓 I am currently pursuing a <b>Bachelor's in Computer Science Engineering</b> from Software University
    </li>
       <li>
-            🌱 I am currently learning **React** and also interested in **Web Development**.
-      
+         🌱 I am currently learning <b>React</b> and also interested in <b>Web Development</b>.
    </li>
       <li>
       🎯 My goal is to have the skills to create beautiful, easy-to-use, valuable and efficient web applications that help users achieve their goals easier, faster and better.
-
    </li>
    </ul>
    
