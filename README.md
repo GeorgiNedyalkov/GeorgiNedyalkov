@@ -4,9 +4,13 @@
   <tr>
     <td>
       🎓 I am currently pursuing a **Bachelor's in Computer Science Engineering** from Software University
+     </td>
+    <td>
       🌱 I am currently learning **React** and also interested in **Web Development**.
-      🎯 My goal is to have the skills to create beautiful, easy-to-use, valuable and efficient web applications that help people achieve their goals easier, faster and better.
-    </td>  
+    </td>
+    <td>
+       🎯 My goal is to have the skills to create beautiful, easy-to-use, valuable and efficient web applications that help people achieve their goals easier, faster and better.
+    </td>    
   </tr>
   </table>
 
