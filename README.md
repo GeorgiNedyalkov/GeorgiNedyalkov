@@ -1,18 +1,16 @@
-### Hi, I am Georgi, an aspiring web developer 🙋‍♂️
+### Hi, my name is Georgi but people call me "G" 🙋‍♂️
 
+I love to programming, making games, playing games, building websites and everything related to becoming a better software engineer.
+- 🔭 I’m currently working on ...
 <ul>
-   <li>
-      🎓 I am currently pursuing a <b>Bachelor's in Computer Science Engineering</b> from Software University
-   </li>
-      <li>
-         🌱 I am currently learning <b>React</b> and also interested in <b>Web Development</b>.
-   </li>
-      <li>
-      🎯 My goal is to have the skills to create beautiful, easy-to-use, valuable and efficient web applications that help users achieve their goals easier, faster and better.
-   </li>
-   </ul>
-   
+   <li>Building my first 3D using Unreal Engine</li>
+   <li>Building a 2D roguelite topdown shooter game using SDL building everything from scratch.</li>
+</ul>
 
+- 🌱 I’m currently learning ...
+- Unreal Engine
+- C++
+- OpenGL
 
    
 <!--
