@@ -2,13 +2,13 @@
 
 I love programming, making games, building websites and everything related to becoming a better software engineer.
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on
 <ul>
-   <li>Building my first 3D using Unreal Engine</li>
+   <li>Building my first 3D action adventura game using Unreal Engine</li>
    <li>Building a 2D roguelite topdown shooter game using SDL building everything from scratch.</li>
 </ul>
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning
 - Unreal Engine
 - C++
 - OpenGL
